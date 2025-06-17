@@ -1,0 +1,6 @@
+word count of a specific word areis 1
+word count of a specific word goodis 1
+word count of a specific word hiis 1
+word count of a specific word howis 1
+word count of a specific word i'mis 1
+word count of a specific word youis 2

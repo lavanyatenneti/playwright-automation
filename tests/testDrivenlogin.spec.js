@@ -23,7 +23,7 @@ test.describe('DataDriven Login tests',()=>
             else
             {
                 await expect(page.locator('#error')).toBeVisible();
-                await expect(page.locator('#error')).toContainText('Your username or password is invalid!');
+                await expect(page.locator('#error')).toContainText('Your password is invalid!');
 
             }
         });
